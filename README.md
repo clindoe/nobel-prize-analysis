@@ -23,3 +23,8 @@ This project explores the Nobel Prize dataset (1901–2023) as part of a DataCam
 - Which decade–category combo had the highest proportion of female winners?
 - Who was the first female laureate, and in what category?
 - Who has received multiple Nobel Prizes?
+  
+## 🧑‍💻 Author
+
+Md Ajmain Adil  
+GitHub: [@clindoe](https://github.com/clindoe)
